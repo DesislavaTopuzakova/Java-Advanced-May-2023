@@ -1,0 +1,15 @@
+Допълнителни видеа на задачи от курса:
+04. Maximal Sum
+видео: https://youtu.be/d7xzSoeQnUQ?t=6549
+решение: https://pastebin.com/1jCzr9XG
+07. Crossfire (с лист от листове) ->  https://pastebin.com/dAGyPkt8
+видео: https://youtu.be/D2Zfs38iDZE?t=8803
+06. Recursive Fibonacci -> https://pastebin.com/E58jfqgB
+видео: https://www.youtube.com/watch?v=z3wWIVUwNAo&t=10300s
+10. Robotics (решение с Map) -> https://pastebin.com/r2yYHatm
+10. Robotics (решение с масив) -> https://pastebin.com/h7FivYpT
+видео: https://www.youtube.com/watch?v=XK-rdc4oCl8&t=3345s
+12. Сръбско Unleashed -> https://pastebin.com/HgdgUFCy
+видео: https://youtu.be/zz0oeaI4ayA?t=8365
+07. Hands of Cards -> https://pastebin.com/xPkWvqDS
+видео: https://youtu.be/sFfxvhLYcy0?t=5697

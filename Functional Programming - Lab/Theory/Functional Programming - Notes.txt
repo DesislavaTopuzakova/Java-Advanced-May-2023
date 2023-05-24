@@ -1,0 +1,7 @@
+Function<приема, връща> -> apply
+Consumer<приема> -> void -> accept
+Supplier<връща> -> get
+Predicate<приема> -> връща true / false -> test
+BiFunction<приема1, приема2, връща> -> apply
+BiConsumer<приема1, приема2> -> void -> accept
+BiPredicate<приема1, приема2> -> връща true / false -> test

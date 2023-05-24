@@ -1,0 +1,20 @@
+Здравейте, качвам малко видеа + решения на стари изпитни задачи за матрици. 
+02. Mouse and cheese
+Решение: https://pastebin.com/xi1RzPPx
+видео: https://youtu.be/6tLG9EHzeps?t=9706
+
+02. Throne Conquering
+Решение: https://pastebin.com/tNbTKSpK
+видео: https://youtu.be/Tx2xO5zTqNk?t=8330
+
+02. Formula One
+Решение: https://pastebin.com/RDwSX6fC
+Видео: https://youtu.be/ToZNX6FLWwg?t=11605
+
+02. Sticky Fingers
+Решение: https://pastebin.com/DG1N7Eba
+Видео: https://softuni.bg/.../video-26-january-2023.../3959
+
+02. The Squirrel
+Решение: https://pastebin.com/JHCS3maU
+Видео: https://softuni.bg/trainings/resources/video/84213/video-23-may-2023-%D0%B4%D0%B5%D1%81%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B0-%D1%82%D0%BE%D0%BF%D1%83%D0%B7%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0-raw-version-java-advanced-may-2023/4100
